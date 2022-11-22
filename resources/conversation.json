@@ -1,0 +1,36 @@
+{
+  "1": {
+    "first_question": "1",
+    "questions": {
+      "1": {
+        "next_qid": 4,
+        "prev_qid": null,
+        "type": 1,
+        "text": "Why do you want to work at Paradox?",
+        "answers": []
+      },
+      "4": {
+        "next_qid": 7,
+        "prev_qid": 1,
+        "type": 2,
+        "text": "How many years of Truck Driving experience do you have?",
+        "answers": {
+          "min": 0,
+          "max": 30
+        }
+      },
+      "7": {
+        "next_qid": 4,
+        "prev_qid": null,
+        "type": 3,
+        "text": "Would you say you care about the effect of the trucking industry on global warming?",
+        "answers": [
+          "Very much",
+          "A bit",
+          "Not so much",
+          "Not at all"
+        ]
+      }
+    }
+  }
+}
